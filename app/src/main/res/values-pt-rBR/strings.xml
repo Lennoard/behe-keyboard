@@ -2,18 +2,15 @@
     <string name="app_name">Teclado BeHe</string>
     <string name="subtype_generic">%s</string>
     <string name="welcome">Bem-vindo ao Teclado BeHe!</string>
-    <string name="activate">Por favor, clique no botão \"Ativar\" abaixo para navegar até as configurações do teclado. Encontre o teclado BeHe na lista e habilite-o. Uma aviso aparecerá, clique em OK. O Teclado BeHe NÃO coleta nenhum dado. Em seguida, navegue de volta,  clique no botão \"Selecionar\" abaixo e escolha o Teclado BeHe na lista. Depois disso, você pode testar o teclado usando o campo de texto abaixo. Para abrir as configurações, toque no botão abaixo e clique em Teclado BeHe.</string>
+    <string name="activate">Por favor, clique no botão Ativar abaixo para navegar até as configurações do teclado. Encontre o Teclado BeHe na lista e habilite-o. Um aviso aparecerá, clique em OK. O BeHe Keyboard NÃO coleta nenhum dado. Em seguida, navegue de volta e clique no botão de seleção abaixo e escolha o Teclado BeHe na lista. Depois disso, você pode testar o teclado usando o campo de texto abaixo. Para abrir as configurações, toque no botão abaixo e clique em Teclado BeHe.</string>
     <string name="donate">Se você gosta do aplicativo, considere me apoiar. Obrigado!</string>
     <string name="up">Mantenha-se atualizado</string>
-    <string name="follow">Siga-me no Twitter para encontrar novidade sobre meus aplicativos. @VlathXDA</string>
-    
-    <!-- Should be unstranslatable -->
-    <string name="version">Versão 1.0.2</string>
-    
+    <string name="follow">Siga-me no Twitter para encontrar novidades sobre os meus aplicativos. @VlathXDA</string>
+    <string name="version">Versão 1.0.4</string>
     <string name="caps">Auto capitalização</string>
     <string name="vib">Vibrar ao pressionar uma tecla</string>
-    <string name="borders">Bordas do teclado</string>
-    
+    <string name="borders">Bordas da tecla</string>
+
     <string-array name="color_values">
         <item name="1">1</item>
         <item name="2">2</item>
@@ -29,7 +26,7 @@
         <item name="1">Preto - texto branco</item>
         <item name="2">Branco - texto preto</item>
         <item name="3">Azul - texto branco</item>
-        <item name="4">Azul - black text</item>
+        <item name="4">Azul - texto preto</item>
         <item name="5">Vermelho - texto branco</item>
         <item name="6">Vermelho - texto preto</item>
         <item name="7">Laranja - texto branco</item>
@@ -42,10 +39,9 @@
         <item name="3">Programação</item>
     </string-array>
     
-    <string-array name="start_values" translatable="false">
+    <string-array name="start_values">
         <item name="1">1</item>
         <item name="2">2</item>
         <item name="3">3</item>
     </string-array>
-
 </resources>
